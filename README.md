@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Znb!
+# 👋 Hi, I'm Zainab!
 
 🎓 Software Engineering Student @ Superior University  
 💻 Frontend Developer Intern @ TaraTechnology  
@@ -11,8 +11,11 @@ I'm a passionate frontend developer skilled in HTML, CSS, JavaScript and React w
  🌐 Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-zainab--waheed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zainab-waheed)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zainabwaheed02-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainabwaheed02)
+
 [![Instagram](https://img.shields.io/badge/Instagram-_zainab__ch-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_zainab_ch/)
+
 [![Email](https://img.shields.io/badge/Gmail-zch671689@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zch671689@gmail.com)
 
 ---
@@ -21,8 +24,11 @@ I'm a passionate frontend developer skilled in HTML, CSS, JavaScript and React w
 
  🖥️ Frontend
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 
  🗄️ Backend
@@ -35,8 +41,6 @@ I'm a passionate frontend developer skilled in HTML, CSS, JavaScript and React w
 
  📚 Currently Learning
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
 
